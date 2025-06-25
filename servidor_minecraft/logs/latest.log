@@ -430,3 +430,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Jun2025 23:38:15.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5902 chunks (99.54%), ETA: 0:00:00, Rate: 51.9 cps, Current: -13, -96
 [24Jun2025 23:38:17.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5920 chunks (99.85%), ETA: 0:00:00, Rate: 51.4 cps, Current: 45, -96
 [24Jun2025 23:38:17.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 5929 chunks (100.00%), Total time: 0:02:13
+[24Jun2025 23:58:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
